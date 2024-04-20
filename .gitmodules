@@ -7,3 +7,6 @@
 [submodule "discovery-server"]
 	path = discovery-server
 	url = https://github.com/dejanas/discovery-server
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/dejanas/user-serive

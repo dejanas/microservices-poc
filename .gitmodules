@@ -1,3 +1,6 @@
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/dejanas/product-service
 [submodule "order-service"]
 	path = order-service
 	url = https://github.com/dejanas/order-service

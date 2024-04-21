@@ -16,9 +16,10 @@
     <description>microservices-poc</description>
 
     <modules>
-<!--        <module>order-service</module>-->
+        <module>order-service</module>
         <module>discovery-server</module>
         <module>product-service</module>
+        <module>user-service</module>
     </modules>
 
     <properties>

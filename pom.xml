@@ -8,7 +8,7 @@
         <version>3.2.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>stevanovic.dejana</groupId>
+    <groupId>com.exercise.microservices</groupId>
     <artifactId>microservices-poc</artifactId>
     <packaging>pom</packaging>
     <version>0.0.1-SNAPSHOT</version>
@@ -16,10 +16,11 @@
     <description>microservices-poc</description>
 
     <modules>
-        <module>order-service</module>
+        <module>common</module>
         <module>discovery-server</module>
-        <module>product-service</module>
         <module>user-service</module>
+        <module>product-service</module>
+        <module>order-service</module>
     </modules>
 
     <properties>
